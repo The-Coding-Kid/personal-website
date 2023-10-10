@@ -1,0 +1,38 @@
+Arguments: 
+  /Users/veerrohitv/.nvm/versions/node/v18.18.0/bin/node /Users/veerrohitv/.nvm/versions/node/v18.18.0/bin/yarn add express nodemon mongoose cors
+
+PATH: 
+  /opt/homebrew/Caskroom/miniforge/base/bin:/opt/homebrew/Caskroom/miniforge/base/condabin:/Users/veerrohitv/.sdkman/candidates/java/current/bin:/Users/veerrohitv/.nvm/versions/node/v18.18.0/bin:/Users/veerrohitv/.local/share/solana/install/active_release/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/veerrohitv/.cargo/bin:/Users/veerrohitv/Library/Application Support/JetBrains/Toolbox/scripts:/Users/veerrohitv/flutter/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.18.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: unable to verify the first certificate
+      at TLSSocket.onConnectSecure (node:_tls_wrap:1600:34)
+      at TLSSocket.emit (node:events:517:28)
+      at TLSSocket._finishInit (node:_tls_wrap:1017:8)
+      at ssl.onhandshakedone (node:_tls_wrap:803:12)
+
+npm manifest: 
+  {
+    "name": "chargerhacks-server",
+    "version": "1.0.0",
+    "main": "server.js",
+    "repository": "https://github.com/The-Coding-Kid/personal-website.git",
+    "author": "veerrohitv",
+    "license": "MIT",
+    "private": false
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
